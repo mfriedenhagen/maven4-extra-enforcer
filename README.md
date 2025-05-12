@@ -1,4 +1,4 @@
-# Maven 4 SNAPSHOT breaks extra-enforcer-rules
+# Maven 4 SNAPSHOT breaks extra-enforcer-rules requirePropertyDiverges
 
 ## Maven 3.9.9
 
